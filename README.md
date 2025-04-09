@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Kororu.
 
-<!--
-**Kororu-lab/Kororu-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Major portion of recent code was **generated** by AI assistant as *gpt-o1-mini*, and trying to perform real-motivating projects using those tools!
 
-Here are some ideas to get you started:
+| **Status**    | **Project**                                               | **Main Language**   | **Env**            | **Materials** | **Other**   |
+|---------------|-----------------------------------------------------------|---------------------|--------------------|---------------|----------------------|
+| **Aside**     | DMHSS                                                     | Python + Cuda       | –                  | –             | –                    |
+| **Done**      | CLEAR                                                     | Python + Cuda       | –                  | –             | –                    |
+| **In progress** | KoDic!: Embed-clusters based Korean AI [OPEN]          | Python + Cuda       | –                  | –             | –                    |
+| **In progress** | FSA: From Earth to Star, Thanks to AI                   | Python + Cuda       | –                  | –             | –                    |
+| **In progress** | PiPanDal (Sniper Recommendation Rating Analysis)        | JavaScript          | –                  | –             | –                    |
+| **In progress** | CityBall: run the giant ball throughout the whole city  | Swift               | –                  | –             | –                    |
+| **In progress** | SECor: Old Korean OCR model                             | Python              | –                  | –             | –                    |
+| **In progress** | PSText: Web-based bookscan system                       | Python              | –                  | –             | –                    |
+| **SeeAll**    | KChain Gov Tool (to find proper paper to research)        | –                   | –                  | –             | –                    |
+| **Testing**   | PyTorch – Jupyter Notebook transform                      | Python              | –                  | –             | –                    |
+| **Testing**   | getPaperJ / getPaperK_ero                                 | Python              | –                  | –             | –                    |
+| **Not started** | PaperAI: dailyAI_Scholar                                | Python              | –                  | –             | –                    |
+| **Not started** | PaBERT: VAE-using personal aggregator                   | Python              | –                  | –             | –                    |
+| **Blueprint** | AI Pianist: Music teacher to mimic the parents            | Python              | –                  | –             | –                    |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
