@@ -9,7 +9,6 @@ Major portion of recent code was **generated** by AI assistant as *gpt-o3-mini*,
 | **In progress** | KoDict: Embed-clusters based Korean dictionary          | Python + Cuda       | –                  | –             | –                    |
 | **In progress** | FESTA: From Earth to the Stars, Thanks to AI                   | Python + Cuda       | –                  | –             | –                    |
 | **In progress** | MemGPT: Snapshot of ideas from various chats        | JavaScript          | Chrome Extension                  | –             | –                    |
-
 | **In progress** | PlatePal (Dinner Recommendation Application)        | Swift          | iOS                  | –             | –                    |
 | **Not Started** | CityBall: roll the giant ball throughout the whole city  | Swift               | iOS                  | –             | –                    |
 | **In progress** | SeOCR: Old Korean OCR model                             | Python              | –                  | –             | –                    |
@@ -20,7 +19,6 @@ Major portion of recent code was **generated** by AI assistant as *gpt-o3-mini*,
 | **Testing** | DailyAI / DailyAI_Scholar                                | Python              | –                  | –             | –                    |
 | **Not Started** | PaBERT: VAE-based paper conversion system                   | Python + Cuda              | –                  | –             | –                    |
 | **Blueprint** | PaPal: Chatbot to find proper paper to research            | Python + Cuda             | –                  | –             | –                    |
-
 | **Blueprint** | AI Pianist: Music teacher to mimic the parents            | Python              | –                  | –             | –                    |
 
 ---
