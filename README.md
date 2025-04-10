@@ -5,7 +5,7 @@ Major portion of recent code was **generated** by AI assistant as *gpt-o3-mini*,
 | **Status**    | **Project**                                               | **Main Language**   | **Env**            | **Materials** | **Other**   |
 |---------------|-----------------------------------------------------------|---------------------|--------------------|---------------|----------------------|
 | **Aside**     | DMHSS: Discreet Mental Health Support System                                                     | Python + Cuda       | –                  | –             | –                    |
-| **Done**      | CLEAR: Clustering and Stock Impact-based News Recommendation System                                                     | Python + Cuda       | –                  | –             | –                    |
+| **In progress**      | CLEAR: Clustering and Stock Impact-based News Recommendation System                                                     | Python + Cuda       | –                  | –             | –                    |
 | **In progress** | KoDict: Embed-clusters based Korean dictionary          | Python + Cuda       | –                  | –             | –                    |
 | **In progress** | FESTA: From Earth to the Stars, Thanks to AI                   | Python + Cuda       | –                  | –             | –                    |
 | **In progress** | MemGPT: Snapshot of ideas from various chats        | JavaScript          | Chrome Extension                  | –             | –                    |
@@ -13,7 +13,7 @@ Major portion of recent code was **generated** by AI assistant as *gpt-o3-mini*,
 | **Not Started** | CityBall: roll the giant ball throughout the whole city  | Swift               | iOS                  | –             | –                    |
 | **In progress** | SeOCR: Old Korean OCR model                             | Python              | –                  | –             | –                    |
 | **In progress** | ViScan Turbo: Web-based bookscan system                       | Python              | –                  | –             | –                    |
-| **Updating**    | SCOUT - Smart Crawler Online Utility Tool        | JavaScript                   | Chrome Extension                  | –             | –                    |
+| **V1.0.2**    | SCOUT - Smart Crawler Online Utility Tool        | JavaScript                   | Chrome Extension                  | –             | –                    |
 | **In progress**   | PyNote: PyTorch – Jupyter Notebook transform                      | Python              | –                  | –             | –                    |
 | **Testing**   | getPaper / getPaper_kor                                 | Python              | –                  | –             | –                    |
 | **Testing** | DailyAI / DailyAI_Scholar                                | Python              | –                  | –             | –                    |
